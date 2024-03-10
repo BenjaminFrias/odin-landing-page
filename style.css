@@ -188,3 +188,14 @@ a {
     color: white;
     background-color: transparent;
 }
+
+/* FOOTER */
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--dark-blue);
+    color: white;
+    height: 100px;
+}
